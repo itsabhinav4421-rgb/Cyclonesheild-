@@ -1,0 +1,6 @@
+{
+  "name": "CycloneShield AI",
+  "description": "Cyclone early-warning and anticipatory action dashboard for the Odisha coast, India with real-time inundation modeling, evacuation copilot, multilingual alerts, and parametric insurance triggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
